@@ -1,16 +1,32 @@
-## Hi there 👋
+Hi, I'm Ayaan 
 
-<!--
-**ayaanpanjani5668/ayaanpanjani5668** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a high school student passionate about Electronics, Robotics, Embedded Systems, and Engineering Design.
 
-Here are some ideas to get you started:
+I enjoy building hands-on projects using Arduino, sensors, microcontrollers, and robotics platforms to learn how technology solves real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to pursue a degree in Robotics Engineering, Electrical Engineering, or Mechatronics and continue developing innovative solutions that combine hardware, software, and automation.
+
+Areas of Interest
+
+ Robotics Engineering
+ 
+ Arduino Development
+ 
+ - VEX Robotics
+ - Electronics & Circuit Design
+ - Embedded Systems
+ - Mechanical Design
+ - Sensors & Automation
+ - Engineering Problem Solving
+ - Artificial Intelligence for Robotics
+
+What I'm Currently Learning
+
+ - Arduino Programming 
+ - VEX Robotics System Design
+ - Motor Control & Autonomous Navigation
+ - Raspberry Pi
+ - Embedded Systems
+ - Python Programming
+ - CAD & Engineering Design
+ - Robotics Competition Strategies
