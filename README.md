@@ -1,6 +1,6 @@
-Hi, I'm Ayaan 
+Hi, I am Ayaan 
 
-I'm a high school student passionate about Electronics, Robotics, Embedded Systems, and Engineering Design.
+I am a high school student passionate about Electronics, Robotics, Embedded Systems, and Engineering Design.
 
 I enjoy building hands-on projects using Arduino, sensors, microcontrollers, and robotics platforms to learn how technology solves real-world problems.
 
